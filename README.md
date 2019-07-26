@@ -10,5 +10,6 @@ iterations=10000
 
 zoom=175
 
-dimension = 600
+dimension=600
+
 ![Example Mandelbrot](https://github.com/coloal/Mandelbrot/blob/master/MandelbrotExample.png)
