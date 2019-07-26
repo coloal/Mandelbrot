@@ -1,2 +1,6 @@
 # Mandelbrot
-GUI of Mandelbrot set
+GUI for Mandelbrot set(parallel implementation)
+
+To compile: javac Simulatore.java
+
+To execute: java Simulatore
